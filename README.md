@@ -1,5 +1,3 @@
-# -Road-Damage-and-Pothole-Detection
-#
 🛣️ Pothole Detection Using YOLO11
 Custom Object Detection Model | Google Colab
 
@@ -13,6 +11,14 @@ This repository contains the complete implementation of a Pothole Detection Syst
 ⏹️ Early Stopping: Prevent unnecessary training and save the best-performing model checkpoint.
 🎯 Detection Visualization: Display prediction results using customized bounding boxes.
 🖼️ Result Visualization: Display 16 randomly selected test images in a 4×4 grid.
+📁 Dataset
+
+The pothole detection dataset is available on Google Drive.
+
+Dataset Link: https://drive.google.com/drive/folders/1NWhSWYf19Mf9FQnNfNpyYgIEjuLBZhDV?usp=drive_link
+
+The dataset is downloaded automatically using gdown and organized into the required YOLO directory structure through the notebook.
+
 🛠️ Technologies Used
 Python
 YOLO11
